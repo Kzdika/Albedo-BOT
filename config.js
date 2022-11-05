@@ -15,6 +15,7 @@
 // • ImYanXiao
 // • WH MODS DEV
 // • Xtreshe
+// • Kz
 // • Dll
 
 //[!] Jangan Lupa Ganti Ownernya
@@ -49,32 +50,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/kahfiofc0' // ig
-global.sgh = 'https://github.com/Maxxy-Md/' // github
-global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt' // group whatsapp
+global.sig = 'https://instagram.com/rhandrqz_' // ig
+global.sgh = 'https://github.com/Kzdika/' // github
+global.sgc = 'https://chat.whatsapp.com/ECmDXCJBCFEEtr3J2RvtTg' // group whatsapp
 global.sdc = '_'//discord
 global.snh = 'https://lynk.id/kahfi.xd' //Hmmm, Ini boleh kalian isi terserah :v
-global.sfb = 'https://www.facebook.com/kahfiofc' // facebook
+global.sfb = '_' // facebook
 global.syt = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285380166282' //dana
+global.pdana = '6288293499014' //dana
 global.povo = '_' //ovo
 global.pgopay = '_' //gopay
 global.plinkaja = '_' //link aja
-global.ppulsa = '6285295374964' //telkomsel
-global.ppulsa2 = '6285380166282' // kalau ada kartu lain isi aja
+global.ppulsa = '6287776985031' //XL
+global.ppulsa2 = '6288293499014' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/MaxxyBotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = '𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
-global.nameown = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.nomorbot = '6287776985031'
+global.nomorown = '6288293499014'
+global.namebot = 'kzbotz'
+global.nameown = 'kz'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Maxxy-Md' // nama github lu
-global.linkgithub = 'github.com/Maxxy-Md' // tarok link github lu
+global.namagithub = '-' // nama github lu
+global.linkgithub = '-' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,8 +86,8 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿', true], 
-  ['6285295374964', '𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯', true],
+  ['6288293499014', 'kz', true], 
+  ['6288293499014', 'kz', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
     //Ganti jd nomormu sama Namamu
